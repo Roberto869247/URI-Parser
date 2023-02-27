@@ -16,7 +16,7 @@ A partire dalla grammatica data, un’URI può essere scomposta quindi nelle seg
 6. Query
 7. Fragment
 Da considerare poi alcune sintassi speciali da prendere in considerazione:
-1. con Schema = "mailto"
-2. con Schema = "news"
-3. con Schema = "tel" o "fax"
-4. con Schema = "zos"
+1. con Scheme = "mailto"
+2. con Scheme = "news"
+3. con Scheme = "tel" o "fax"
+4. con Scheme = "zos"
